@@ -1,0 +1,27 @@
+{
+  "name": "slack-reaction",
+  "version": "1.0.0",
+  "description": "Aggregate slack's reaction",
+  "main": "main.js",
+  "dependencies": {
+    "cron": "^1.3.0",
+    "dotenv": "^6.0.0",
+    "moment-timezone": "^0.5.21",
+    "slack": "^11.0.1",
+    "time": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maroemon58/slack-reaction.git"
+  },
+  "author": "maroemon58",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maroemon58/slack-reaction/issues"
+  },
+  "homepage": "https://github.com/maroemon58/slack-reaction#readme"
+}
